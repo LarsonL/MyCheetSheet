@@ -1,2 +1,0 @@
-# Nvim Cheet Sheet
-
