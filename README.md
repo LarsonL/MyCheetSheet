@@ -1,6 +1,6 @@
 # Vim Cheet Sheet
 
-Though the title is a cheetsheet, it may contains a bunch of other program cheet sheet, like tmux or some guidelines.
+Though the title is a vim cheetsheet, it may contains a bunch of other program cheet sheet, like tmux or some guidelines.
 
 ## Nvim Cheet Sheet
 
